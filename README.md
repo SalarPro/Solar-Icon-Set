@@ -26,6 +26,8 @@ Solar is a large icon library consisting of pictograms that are modern in style.
 
 ## 🖼️ Icon Gallery Browser
 
+**🌐 Live Demo: [https://salarpro.com/solar](https://salarpro.com/solar)**
+
 This fork includes a web-based icon gallery that lets you:
 
 - **Search** icons by name instantly
